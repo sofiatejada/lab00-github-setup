@@ -1,1 +1,1 @@
-# lab00-github-setup
+# lab00-github-setupa test repo for git and GitHub
